@@ -2,7 +2,7 @@
 
 Project developed for study in Ibirapuera University.
 
-# Used #flexbox
+# Used Netbeans
 
 - Netbeans [Netbeans](https://netbeans.org/features/)
 
